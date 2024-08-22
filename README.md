@@ -18,7 +18,7 @@ The following compnents were used to create the model of the EVM:
 
 The microcontroller was programmed using Arduino IDE.
 This repository contains the code files of the project. There are separate code files used to unit test the various elements of the device namely LCD display and keypad interface.
-The main code file is EE-301N_project.ino
+The main code file is EVM project.ino
 
 ## Features
 The model of the EVM has two modes:
