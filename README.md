@@ -23,8 +23,10 @@ The microcontroller was programmed using Arduino IDE. This repository contains t
 
 The model of the EVM has two modes:
 
-Voting mode
-Counting mode
+1.Voting mode
+
+2.Counting mode
+
 In voting mode: Each voter has a separate voter ID and password that he can use to validate his vote. Every voter is allowed to vote only once. The tally of the votes are stored in the EEPROM available in the ATMEGA 328p.
 
 In counting mode: The official has a special username and password that he can use to enter the counting mode and see a tally of votes. For more features please take a look at the video demo of how to use the EVM.
